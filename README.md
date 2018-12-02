@@ -1,5 +1,9 @@
 # RockPaperScissor
 
+<p align="center">
+  <img src="https://github.com/dnuch/RockPaperScissor/blob/master/download.png" />
+</p>
+
 **File Directory**
 
 * src : rps source
